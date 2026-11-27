@@ -1,3 +1,10 @@
+**[0.43.9] – 2026-11-21**  
+- Notstromreserve wird nun erst 5 Std vor Sonnenaufgang freigegeben.  
+
+**[0.43.8] – 2026-10-25**  
+- FIX: Forcast DWD erzeugt teilweise in den letzten Tagesstunden einen Sprung nach oben.  
+- Dockerfile: PHP2Shell gepatchtes PHP 8.3.36 in alpine:3.22  
+
 **[0.43.7] – 2026-10-18**  
 - **NEU** Hausakkusperre im TAB Wallbox, damit kann beim Laden im PV-Modus MAX oder NextTrip die Entladung des Hausakkus gesperrt werden.  
 
